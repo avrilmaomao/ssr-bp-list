@@ -3,3 +3,4 @@ twimg.com
 youtube.com
 ytimg.com
 googlevideo.com
+gstatic.com
