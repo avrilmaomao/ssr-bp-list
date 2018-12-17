@@ -1,1 +1,5 @@
 twitter.com
+twimg.com
+youtube.com
+ytimg.com
+googlevideo.com
