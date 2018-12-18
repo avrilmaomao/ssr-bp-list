@@ -4,3 +4,5 @@ youtube.com
 ytimg.com
 googlevideo.com
 gstatic.com
+facebook.com
+medium.com
