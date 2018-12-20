@@ -6,3 +6,4 @@ googlevideo.com
 gstatic.com
 facebook.com
 medium.com
+googleapis.com
