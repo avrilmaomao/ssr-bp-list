@@ -8,3 +8,10 @@ facebook.com
 medium.com
 googleapis.com
 googleusercontent.com
+ggpht.com
+netflix.com
+nflximg.com
+nflximg.net
+nflxext.com
+nflxso.net
+nflxvideo.net
