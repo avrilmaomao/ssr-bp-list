@@ -15,3 +15,5 @@ nflximg.net
 nflxext.com
 nflxso.net
 nflxvideo.net
+instagram.com
+cdninstagram.com
